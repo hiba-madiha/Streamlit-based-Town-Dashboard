@@ -16,8 +16,8 @@ Open a new Command Prompt window and type sqlite3. If installed correctly, the S
 
 ## Install the dependencies and run the code
 
-  - In-order to install the dependences make an environment **"python -m venv env"**
+  - In-order to make an environment run the command **"python -m venv env"**
   - then enable the environment using **"env/Scripts/activate"**
-  - run the commend **"pip install -r requirements.txt"**
+  - then to install the dependences run the command **"pip install -r requirements.txt"**
   - and finally run **"streamlit run main.py"**
 
