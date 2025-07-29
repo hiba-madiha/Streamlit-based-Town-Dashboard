@@ -13,3 +13,11 @@ Create a dedicated folder for SQLite (e.g., C:\sqlite) and extract the contents 
   - Add the path to your SQLite folder (e.g., C:\sqlite) to the Path variable.
 ### Verify Installation:
 Open a new Command Prompt window and type sqlite3. If installed correctly, the SQLite command-line interface will launch. 
+
+## Install the dependencies and run the code
+
+  - In-order to install the dependences make an environment **"python -m venv env"**
+  - then enable the environment using **"env/Scripts/activate"**
+  - run the commend **"pip install -r requirements.txt"**
+  - and finally run **"streamlit run main.py"**
+
