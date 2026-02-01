@@ -95,7 +95,7 @@ page_modules = {
     "Delete Data": "delete_data",
     "Bill Entry": "bill_entry",
     "Funds Entry": "funds_entry",
-    "View Data":  "view_data",
+    "View Data":  "view_data_updated5",
     "Defaulters": "defaulters"
 }
 
